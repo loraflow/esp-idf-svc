@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["fn_handler"],"mod":["ws"],"struct":["ChainHandler","ChainRoot","CompositeHandler","Configuration","EspHttpConnection","EspHttpRawConnection","EspHttpServer","FnHandler","HandlerError","Request","Response"],"trait":["Connection","EspHttpTraversableChain","Handler","Middleware"],"type":["HandlerResult"]};
